@@ -1,0 +1,24 @@
+.idea/
+__pycache__
+data_dump.json
+fixtures.json
+media
+.env
+*.env
+*.json
+.json
+media/
+
+!api/news_manager/static/
+api/static/
+
+*_dump_*
+.DS_Store
+.vscode
+venv/
+loadtest/
+
+# dev files
+*.sh
+!/makefile_scripts/*
+!.makefile.example.env

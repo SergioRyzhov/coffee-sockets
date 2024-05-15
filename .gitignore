@@ -3,22 +3,20 @@ __pycache__
 data_dump.json
 fixtures.json
 media
+static
 .env
 *.env
 *.json
 .json
 media/
 
-!api/news_manager/static/
 api/static/
 
 *_dump_*
-.DS_Store
 .vscode
 venv/
-loadtest/
+test/
 
 # dev files
 *.sh
-!/makefile_scripts/*
-!.makefile.example.env
+!/makefile/*

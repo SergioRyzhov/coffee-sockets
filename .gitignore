@@ -1,17 +1,9 @@
 .idea/
 __pycache__
-data_dump.json
-fixtures.json
-media
-static
 .env
 *.env
 *.json
 .json
-media/
-
-api/static/
-
 *_dump_*
 .vscode
 venv/
